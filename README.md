@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kingpitah254
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning flask web frame
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
